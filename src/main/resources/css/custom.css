@@ -1,0 +1,8 @@
+@font-face {
+    src: url("/fonts/festus.ttf");
+}
+
+.festusTree .tree-cell {
+    -fx-font-family: "festus";
+    -fx-font-size: 30px;
+}
